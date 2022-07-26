@@ -4,6 +4,9 @@
 .center {
     text-align: center;
 }
+.cor-menu{
+    background-color: rgb(212, 217, 208)    ;
+}
 
 .container {
     display: flex;
