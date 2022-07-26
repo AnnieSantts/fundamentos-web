@@ -1,0 +1,60 @@
+/*Estilos da página index.html*/
+
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 30px;
+    text-decoration: none;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li a:hover {
+    color: blue;
+}
+
+.texto-inicial {
+    padding: 20px;
+}
+
+.texto-justificado{
+    text-align: justify;
+}
+
+.imagem-escoceses {
+    border-radius: 60%;
+}
+
+.wh {
+    width: 500px;
+    height: 500px;
+}
+
+.size-redesocial{
+    width: 25px;
+    height: 25px;
+    padding: 30px   ;
+}
+
+
+/*Estilos da página contato.html*/
+
+.margem-esquerda{
+    margin-left: 50px;
+}
