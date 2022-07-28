@@ -1,11 +1,18 @@
 /*Estilos da página index.html*/
 
+body{
+
+    padding: 30px;
+}
 
 .center {
+    margin-top: 90px;
     text-align: center;
+    font-family: fantasy;
 }
 .cor-menu{
     background-color: rgb(212, 217, 208)    ;
+    padding: 20px;
 }
 
 .container {
@@ -26,6 +33,7 @@
 #menu li a {
     text-decoration: none;
     color: black;
+    font-size: 14pt;
 }
 
 #menu li a:hover {
@@ -53,6 +61,11 @@
     width: 25px;
     height: 25px;
     padding: 30px   ;
+}
+
+.textorodape {
+    align-items: center;
+    justify-content: center;
 }
 
 
